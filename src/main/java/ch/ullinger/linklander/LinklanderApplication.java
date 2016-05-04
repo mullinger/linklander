@@ -1,4 +1,4 @@
-package ch.ullinger;
+package ch.ullinger.linklander;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

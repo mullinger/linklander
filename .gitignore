@@ -16,3 +16,7 @@ linklander.iml
 target/
 .idea/
 .mvn/
+.settings/
+.externalToolBuilders/
+/.classpath
+/.project
